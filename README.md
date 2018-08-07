@@ -1,2 +1,1 @@
-# 
-[amtj.github.io](http://amtj.github.io)
+<a href = "http://amtj.github.io"><h1>amtj.github.io</h1></a>
