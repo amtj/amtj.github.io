@@ -242,7 +242,7 @@ h5{
 
 .hero-image{
   padding-top: 70px;
-  padding-left: 50px;
+  padding-left: 35px;
   padding-bottom: 50px;
 }
 
@@ -445,8 +445,8 @@ font-weight: 700;
 color: #212121;
 }
 
-.width86{
-  max-width: 86%;
+.width-hero{
+  max-width: 82%;
 }
 
 .width100{
